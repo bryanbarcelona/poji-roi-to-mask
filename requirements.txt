@@ -1,0 +1,4 @@
+numpy==2.2.3
+opencv-python==4.11.0.86
+roifile==2025.2.20
+tifffile==2025.2.18
